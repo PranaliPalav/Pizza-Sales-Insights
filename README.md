@@ -1,7 +1,8 @@
 # Pizza-Sales-Insights
 
-# Power BI Sales Insights - Pizza Analysis
-# This project contains a Power BI report providing insights into pizza sales data. The report focuses on key metrics like revenue, quantity sold, and total orders, # allowing you to identify top-selling pizzas and track sales trends.
+Power BI Sales Insights - Pizza Analysis
+This project contains a Power BI report providing insights into pizza sales data. The report focuses on key metrics like revenue, quantity sold, and total orders,
+allowing you to identify top-selling pizzas and track sales trends.
 
 Report Overview
 The report provides two main sections:
